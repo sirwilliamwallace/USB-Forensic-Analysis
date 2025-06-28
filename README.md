@@ -79,7 +79,7 @@ Binwalk:
 - Proper isolation and safe tools mitigated risks successfully.
 
 ## Licence
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
 
 ## Author
 **Amirhossein Shekooh**
