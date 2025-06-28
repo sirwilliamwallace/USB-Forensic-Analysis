@@ -38,7 +38,6 @@ This project documents a full **digital forensic analysis** of a suspicious 2GB 
 MD5: 958eaee85ace515af653944635913209
 SHA-1: a641ff2f1b66fa37b9605f8aa0cf6a033fd02e06
 ```
-![image](https://github.com/user-attachments/assets/e1e504e7-f992-4ec5-a385-ee44c1a34df1)
 
 ### 2. Secure Analysis Environment
 
