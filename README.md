@@ -53,8 +53,14 @@ foremost -i usb-raw-img.dd.001 -o recovered_files
 - Binwalk, Strings, and Zipinfo were used to examine ZIP files without extracting them.
 
 - Found patterns of repeated JPEGs and text files: indicators of ZIP bombs
+
 ![image](https://github.com/user-attachments/assets/bb9b51ad-141b-4203-a73f-da94fbcb0c37)
 
+ZIP info:
+![image](https://github.com/user-attachments/assets/a08736cd-db33-416f-9c42-c122ff0c5c7c)
+
+Binwalk:
+![image](https://github.com/user-attachments/assets/76543919-149e-4f2f-9451-2d48098ef467)
 
 ## Legal & Ethical Considerations
 - All actions complied with GDPR, data integrity, and chain-of-custody protocols.
@@ -64,13 +70,18 @@ foremost -i usb-raw-img.dd.001 -o recovered_files
 - Tailscale ensured an isolated forensic analysis environment.
 
 ### Key findings
+![image](https://github.com/user-attachments/assets/67b473ea-16ce-47d7-a5c4-de250375cbda)
+
 - ZIP bombs were embedded with repetitive, oversized, corrupted files.
 
 - Designed to crash systems or delay forensic work.
 
 - Proper isolation and safe tools mitigated risks successfully.
 
-Author
-Amirhossein Shekooh
+## Licence
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+## Author
+**Amirhossein Shekooh**
 BSc Cybersecurity
 Feel free to explore the report or reach out for discussion or collaboration.
