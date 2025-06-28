@@ -1,5 +1,14 @@
 # Digital Forensics Investigation – USB Analysis on Raspberry Pi
 
+## Related Article
+
+I wrote a detailed guide on setting up the Raspberry Pi with Kali Linux and securing it via Tailscale, which was used in this forensic investigation:
+
+**➡️ [How to Install Kali Linux on a Raspberry Pi and Access It Securely (Tailscale Version)](https://medium.com/@mrnumberx/how-to-install-kali-linux-on-a-raspberry-pi-and-access-it-securely-tailscale-version-1a663d64ec74)**  
+Published on *Medium* by Amirhossein Shekooh
+
+---
+
 ## Overview
 
 This project documents a full **digital forensic analysis** of a suspicious 2GB USB flash drive, conducted as part of a university module in Digital Forensics. Using a **Raspberry Pi 4** configured with **Kali Linux** and remote-secured via **Tailscale**, I followed a professional-grade investigation workflow including evidence imaging, hashing, file carving, and advanced analysis of hidden malicious payloads (ZIP bombs).
